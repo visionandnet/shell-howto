@@ -1,5 +1,5 @@
 #!/bin/bash
-#HelloWorld Skript
+
 echo "##### example 1 #####"
 echo "HelloWorld"
 echo ""
