@@ -1,6 +1,7 @@
 #### change aliases #############################
-sudo nano ~/.bashrc
-
+alias myip="./myip.sh"
+unalias myip
+sudo nano ~/.bashrc #save alias here
 
 ## do, while etc...... #############################
 printf 'HelloWorld\n%.0s' {1..5}
